@@ -42,11 +42,3 @@ Controlled by a `MenuManager` to separate game screens:
 The heart of the application:
 * **Delta Time (dt):** Movement is normalized using `dt`. This ensures that the bird and pipes move at the same speed regardless of the CPU's processor speed.
 * **Event Handling:** Constant monitoring for keyboard/mouse inputs and application exit events.
-
----
-
-## 🔧 How to Run
-
-1. Make sure you have **Python** and **Pygame** installed:
-   ```bash
-   pip install pygame
