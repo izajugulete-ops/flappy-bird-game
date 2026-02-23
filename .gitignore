@@ -3,3 +3,10 @@
 *.swp
 *.sublime-project
 *.sublime-workspace
+
+Thumbs.db
+.DS_Store
+
+node_modules/
+dist/
+.env
